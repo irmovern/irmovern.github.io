@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://irmovern.github.io/sitemap
+Sitemap: https://irmovern.github.io/app/sitemap
+Sitemap: https://irmovern.github.io/assets/sitemap
+Sitemap: https://irmovern.github.io/css/sitemap
+Sitemap: https://irmovern.github.io/includes/sitemap
+Sitemap: https://irmovern.github.io/item/sitemap
+Sitemap: https://irmovern.github.io/src/sitemap
